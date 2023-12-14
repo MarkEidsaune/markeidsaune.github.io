@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stuff & things
-email: markeidsaune@gmail.com
+title: "Stuff & things"
+email: "markeidsaune@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Stuff & things is my space for documenting my Data Science / Machine Learning journey.
   Topics: Neural nets, reinforcement learning, data viz, fishing, golf, and cooking.
 baseurl: "stuff-things" # the subpath of your site, e.g. /blog
 url: "https://markeidsaune.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MEidsaune
-github_username:  MarkEidsaune
+twitter_username: "MEidsaune"
+github_username:  "MarkEidsaune"
 
 # Build settings
 theme: minima
